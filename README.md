@@ -78,4 +78,4 @@ _University of Dhaka — Graduation Year: 1998_
 ## 🧑‍💻 GitHub Profile
 
 > Explore my code, open-source contributions, and collaborative projects on GitHub:  
-> 🔗 [https://github.com/your-username](https://github.com/your-username)
+> 🔗 [https://github.com/manjurulus](https://github.com/manjurulus)
